@@ -1,6 +1,7 @@
 # FlashCards
 
-FlashCard Simulator
+## FlashCard Simulator
+
 This project is a FlashCard Simulator built using Python and Object-Oriented Programming (OOP) principles. It allows users to create, manage, and study with custom flashcard decks. The simulator promotes effective learning through an interactive, session-based approach.
 
 ## Features
@@ -29,8 +30,8 @@ FlashCardSimulator: The main interface for creating decks, adding flashcards, an
 
 ## Contributions
 
-Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
+I'd like to see your contributions. Please fork the repository, make your changes in a new branch, and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
