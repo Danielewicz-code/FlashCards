@@ -3,10 +3,9 @@
 FlashCard Simulator
 This project is a FlashCard Simulator built using Python and Object-Oriented Programming (OOP) principles. It allows users to create, manage, and study with custom flashcard decks. The simulator promotes effective learning through an interactive, session-based approach.
 
-##Features
+## Features
 
 User Management: Create a user profile to manage decks and sessions.
-
 Deck Creation: Create multiple decks, each containing custom flashcards.
 
 Flashcard Management: Add, view, and delete flashcards within a deck.
